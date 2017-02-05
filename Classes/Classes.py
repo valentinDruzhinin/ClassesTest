@@ -1,6 +1,6 @@
 ﻿'''
 Created on 02.05.2017
-
+Different variants of classes
 @author: Valentin
 '''
 
